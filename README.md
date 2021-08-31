@@ -4,6 +4,8 @@ PyTorch implementation of [Vit](https://openreview.net/pdf?id=YicbFdNTTy)
 
 All operations used for implementation are supported on ONNX and TensorRT.
 
+My works already merged into https://github.com/lucidrains/vit-pytorch/pull/151.
+
 ## Usage
 
 ```python
